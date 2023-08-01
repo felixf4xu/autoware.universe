@@ -90,6 +90,7 @@ localization/stop_filter/** koji.minoda@tier4.jp yamato.ando@tier4.jp
 localization/twist2accel/** koji.minoda@tier4.jp yamato.ando@tier4.jp
 localization/yabloc/yabloc_common/** kento.yabuuchi.2@tier4.jp
 localization/yabloc/yabloc_image_processing/** kento.yabuuchi.2@tier4.jp
+localization/yabloc/yabloc_monitor/** kento.yabuuchi.2@tier4.jp koji.minoda@tier4.jp
 localization/yabloc/yabloc_particle_filter/** kento.yabuuchi.2@tier4.jp
 localization/yabloc/yabloc_pose_initializer/** kento.yabuuchi.2@tier4.jp
 map/map_height_fitter/** isamu.takagi@tier4.jp yamato.ando@tier4.jp
